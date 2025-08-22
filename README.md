@@ -37,7 +37,7 @@ If you prefer, you can also download the dataset from [Kaggle: Global Terrorism 
   
 
 ---
-✍️ Created by **[ALGIN FARRELL](https://www.linkedin.com/in/algin-farrell-16681432b)**  
+ Created by **[ALGIN FARRELL](https://www.linkedin.com/in/algin-farrell-16681432b)**  
 
-## 📂 Project Structure
+
 
