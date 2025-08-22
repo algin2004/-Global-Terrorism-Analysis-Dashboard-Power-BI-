@@ -28,7 +28,7 @@ If you prefer, you can also download the dataset from [Kaggle: Global Terrorism 
 
 
 ## Dashboard Preview
-![Dashboard Preview](report/dashboard.png)
+![Dashboard Preview](report/Screenshot%20(28).png)
 
 ## How to Use
 1. Download the `GlobalTerrorism.pbix` file from the **powerbi/** folder.   
@@ -37,7 +37,7 @@ If you prefer, you can also download the dataset from [Kaggle: Global Terrorism 
   
 
 ---
-✍️ Created by **[ALGIN FARRELL](www.linkedin.com/in/algin-farrell-16681432b)**  
+✍️ Created by **[ALGIN FARRELL](https://www.linkedin.com/in/algin-farrell-16681432b)**  
 
 ## 📂 Project Structure
 
